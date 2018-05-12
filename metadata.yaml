@@ -1,0 +1,31 @@
+_repo: The-Protection-of-Fresh-Water-Mussels_43177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43177-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coker, R. E. (Robert Ervin)
+    aliases:
+    - Coker, Robert Erwin
+    - Coker, Robert Ervin
+    birthdate: 1876
+    deathdate: 1967
+    gutenberg_agent_id: '42053'
+    url: http://www.gutenberg.org/2009/agents/42053
+description: ''
+gutenberg_issued: '2013-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43177'
+  lccn: f14000012
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Freshwater mussels'
+- !lcsh 'Fishery law and legislation -- United States'
+title: The Protection of Fresh-Water Mussels
+url: http://www.gutenberg.org/ebooks/43177
